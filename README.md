@@ -26,7 +26,7 @@ O **Instagram Clone** tem como objetivo criar uma experiência similar ao Instag
 ### Tela Inicial / Home Screen
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/Jonemanuel/Instagram-Clone/blob/main/assets/readme/instagram.png" alt="Home Screen 1" width="300"/>
+  <img src="https://github.com/Jonemanuel/Instagram-Clone/blob/main/assets/readme/instagram.png" alt="Home Screen 1" width="1000"/>
 </div>
 
 
